@@ -7,6 +7,10 @@ main-heading->  h1<br>
 Other headings-> h2<br>
 <br>
 
+### HTML-CSS-JS file structure
+HOME PAGE ->  HTML, CSS, JS<br>
+REAL-ESTATE HOME PAGE, LISTING will share CSS and JS file<br>
+
 ### Variable names
 Image files: img-{some idetifiable name}, <br>
 for eg: *img-main-section-bg.png*, *img-realestate-card.png*, *img-property-dew.png*, etc <br>
