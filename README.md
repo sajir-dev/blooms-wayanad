@@ -8,7 +8,7 @@ Other headings-> h2<br>
 <br>
 
 ### Variable names
-Image files: img-<identifiable-name>, <br>
+Image files: img-{some idetifiable name}, <br>
 for eg: *img-main-section-bg.png*, *img-realestate-card.png*, *img-property-dew.png*, etc <br>
 
 
@@ -18,8 +18,7 @@ for eg: *img-main-section-bg.png*, *img-realestate-card.png*, *img-property-dew.
 *main-section-2* <br>
     *main-section-realeastate* <br>
 *footer-section*
-
-<br><br>
+<br>
 
 ### real-estate page sections
 *header*<br>
